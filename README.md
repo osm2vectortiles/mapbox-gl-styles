@@ -1,7 +1,10 @@
-# Example Project of using Mapbox GL JS with a custom style
+## Display a map using Mapbox GL JS with a custom style
 
-Tutorial can be found at http://osm2vectortiles.org
+This project lets you display a full screen map using a custom map style. A tutorial on how this works can be found at http://osm2vectortiles.org. The map style is based on the [OSM Bright style](https://github.com/mapbox/mapbox-gl-styles) of Mapbox.
 
-Based of https://github.com/klokantech/mapbox-gl-js-offline-example
+Run your favorite webserver and have a look at the map in your browser.
 
-Using the OSM Bright style from https://github.com/mapbox/mapbox-gl-styles
+```bash
+npm install -g http-server
+http-server
+```
