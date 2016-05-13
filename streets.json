@@ -7489,8 +7489,7 @@
             "layout": {
                 "text-field": "{house_num}",
                 "text-font": [
-                    "DIN Offc Pro Italic",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Italic"
                 ],
                 "text-padding": 4,
                 "text-max-width": 7,
@@ -7519,8 +7518,7 @@
             "layout": {
                 "text-field": "{name_en}",
                 "text-font": [
-                    "DIN Offc Pro Italic",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Italic"
                 ],
                 "symbol-placement": "line",
                 "text-max-angle": 30,
@@ -7600,8 +7598,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 2,
                 "text-offset": [
@@ -7676,8 +7673,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 1,
                 "text-offset": [
@@ -7747,8 +7743,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 1,
                 "text-offset": [
@@ -7817,8 +7812,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 1,
                 "text-offset": [
@@ -7887,8 +7881,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 2,
                 "text-offset": [
@@ -7956,8 +7949,7 @@
                 "text-max-angle": 30,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Regular",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "symbol-placement": "line",
                 "text-padding": 1,
@@ -8015,8 +8007,7 @@
                 "text-max-angle": 30,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Regular",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "symbol-placement": "line",
                 "text-padding": 1,
@@ -8065,8 +8056,7 @@
                 "text-max-angle": 30,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Regular",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "symbol-placement": "line",
                 "text-padding": 1,
@@ -8161,8 +8151,7 @@
                     ]
                 },
                 "text-font": [
-                    "DIN Offc Pro Bold",
-                    "Arial Unicode MS Bold"
+                    "Open Sans Bold"
                 ],
                 "symbol-placement": {
                     "base": 1,
@@ -8273,8 +8262,7 @@
                     ]
                 },
                 "text-font": [
-                    "DIN Offc Pro Bold",
-                    "Arial Unicode MS Bold"
+                    "Open Sans Bold"
                 ],
                 "symbol-placement": {
                     "base": 1,
@@ -8325,8 +8313,7 @@
                 "text-size": 9,
                 "icon-image": "motorway-exit-{reflen}",
                 "text-font": [
-                    "DIN Offc Pro Bold",
-                    "Arial Unicode MS Bold"
+                    "Open Sans Bold"
                 ]
             },
             "paint": {
@@ -8397,8 +8384,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 2,
                 "text-offset": [
@@ -8478,8 +8464,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 2,
                 "text-offset": [
@@ -8529,8 +8514,7 @@
                 "icon-image": "{network}",
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-offset": [
                     0,
@@ -8595,8 +8579,7 @@
             "layout": {
                 "text-field": "{name_en}",
                 "text-font": [
-                    "DIN Offc Pro Italic",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Italic"
                 ],
                 "text-max-width": 7,
                 "text-size": {
@@ -8635,8 +8618,7 @@
             "layout": {
                 "text-field": "{name_en}",
                 "text-font": [
-                    "DIN Offc Pro Italic",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Italic"
                 ],
                 "text-max-width": 7,
                 "text-size": {
@@ -8696,8 +8678,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Regular",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 2,
                 "visibility": "none",
@@ -8776,8 +8757,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 2,
                 "text-offset": [
@@ -8857,8 +8837,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 2,
                 "text-offset": [
@@ -8919,8 +8898,7 @@
                 },
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 2,
                 "text-offset": [
@@ -8983,8 +8961,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Regular",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 2,
                 "text-offset": [
@@ -9021,8 +8998,7 @@
                 "text-letter-spacing": 0.1,
                 "text-max-width": 7,
                 "text-font": [
-                    "DIN Offc Pro Regular",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 3,
                 "text-size": {
@@ -9063,8 +9039,7 @@
                 "text-field": "{name_en}",
                 "text-transform": "uppercase",
                 "text-font": [
-                    "DIN Offc Pro Regular",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-letter-spacing": 0.15,
                 "text-max-width": 7,
@@ -9106,8 +9081,7 @@
             "layout": {
                 "text-field": "{name_en}",
                 "text-font": [
-                    "DIN Offc Pro Regular",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-size": {
                     "base": 1,
@@ -9145,8 +9119,7 @@
             "layout": {
                 "text-field": "{name_en}",
                 "text-font": [
-                    "DIN Offc Pro Regular",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-max-width": 7,
                 "text-size": {
@@ -9190,15 +9163,13 @@
                         [
                             11,
                             [
-                                "DIN Offc Pro Regular",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ],
                         [
                             12,
                             [
-                                "DIN Offc Pro Medium",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ]
                     ]
@@ -9300,8 +9271,7 @@
                 "text-max-angle": 38,
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Regular",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-padding": 2,
                 "text-offset": [
@@ -9368,15 +9338,13 @@
                         [
                             7,
                             [
-                                "DIN Offc Pro Regular",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ],
                         [
                             8,
                             [
-                                "DIN Offc Pro Medium",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ]
                     ]
@@ -9509,15 +9477,13 @@
                         [
                             7,
                             [
-                                "DIN Offc Pro Regular",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ],
                         [
                             8,
                             [
-                                "DIN Offc Pro Medium",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ]
                     ]
@@ -9597,15 +9563,13 @@
                         [
                             7,
                             [
-                                "DIN Offc Pro Regular",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ],
                         [
                             8,
                             [
-                                "DIN Offc Pro Medium",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ]
                     ]
@@ -9718,15 +9682,13 @@
                         [
                             7,
                             [
-                                "DIN Offc Pro Regular",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ],
                         [
                             8,
                             [
-                                "DIN Offc Pro Medium",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ]
                     ]
@@ -9839,15 +9801,13 @@
                         [
                             7,
                             [
-                                "DIN Offc Pro Regular",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ],
                         [
                             8,
                             [
-                                "DIN Offc Pro Medium",
-                                "Arial Unicode MS Regular"
+                                "Open Sans Regular"
                             ]
                         ]
                     ]
@@ -9974,8 +9934,7 @@
                     ]
                 },
                 "text-font": [
-                    "DIN Offc Pro Italic",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Italic"
                 ],
                 "symbol-placement": "line",
                 "text-field": "{name_en}",
@@ -10016,8 +9975,7 @@
                 "text-letter-spacing": 0.1,
                 "text-line-height": 1.5,
                 "text-font": [
-                    "DIN Offc Pro Italic",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Italic"
                 ],
                 "text-size": {
                     "base": 1,
@@ -10079,8 +10037,7 @@
                 },
                 "symbol-spacing": 250,
                 "text-font": [
-                    "DIN Offc Pro Italic",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Italic"
                 ],
                 "symbol-placement": "line",
                 "text-field": "{name_en}",
@@ -10122,8 +10079,7 @@
                 "text-letter-spacing": 0.15,
                 "text-line-height": 1.5,
                 "text-font": [
-                    "DIN Offc Pro Italic",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Italic"
                 ],
                 "text-size": {
                     "base": 1.1,
@@ -10174,8 +10130,7 @@
                 "text-line-height": 1.1,
                 "symbol-placement": "line",
                 "text-font": [
-                    "DIN Offc Pro Italic",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Italic"
                 ],
                 "text-size": {
                     "base": 1,
@@ -10225,8 +10180,7 @@
                 "text-letter-spacing": 0.25,
                 "text-line-height": 1.5,
                 "text-font": [
-                    "DIN Offc Pro Italic",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Italic"
                 ],
                 "text-size": {
                     "base": 1,
@@ -10278,8 +10232,7 @@
                 },
                 "text-transform": "uppercase",
                 "text-font": [
-                    "DIN Offc Pro Bold",
-                    "Arial Unicode MS Bold"
+                    "Open Sans Bold"
                 ],
                 "text-field": {
                     "base": 1,
@@ -10344,8 +10297,7 @@
                 },
                 "text-transform": "uppercase",
                 "text-font": [
-                    "DIN Offc Pro Bold",
-                    "Arial Unicode MS Bold"
+                    "Open Sans Bold"
                 ],
                 "text-field": {
                     "base": 1,
@@ -10402,8 +10354,7 @@
                 },
                 "text-transform": "uppercase",
                 "text-font": [
-                    "DIN Offc Pro Bold",
-                    "Arial Unicode MS Bold"
+                    "Open Sans Bold"
                 ],
                 "text-padding": 1,
                 "text-field": {
@@ -10449,8 +10400,7 @@
                 "text-field": "{name_en}",
                 "text-max-width": 6,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-size": {
                     "base": 0.9,
@@ -10517,8 +10467,7 @@
                 },
                 "text-max-width": 6,
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-size": {
                     "base": 1,
@@ -10585,8 +10534,7 @@
                     ]
                 },
                 "text-font": [
-                    "DIN Offc Pro Medium",
-                    "Arial Unicode MS Regular"
+                    "Open Sans Regular"
                 ],
                 "text-size": {
                     "base": 1,
