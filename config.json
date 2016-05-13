@@ -1,0 +1,32 @@
+{
+  "options": {
+    "paths": {
+      "root": "",
+      "fonts": "glyphs",
+      "sprites": "sprites",
+      "styles": "styles"
+    }
+  },
+  "styles": {
+    "bright": {
+      "style": "bright-v9.json"
+    },
+    "streets": {
+      "style": "streets-v9.json"
+    },
+    "basic": {
+      "style": "basic-v9.json"
+    },
+    "light": {
+      "style": "light-v9.json"
+    },
+    "dark": {
+      "style": "dark-v9.json"
+    }
+  },
+  "data": {
+    "osm2vectortiles": {
+      "mbtiles": "osm2vectortiles.mbtiles"
+    }
+  }
+}

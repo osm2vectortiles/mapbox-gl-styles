@@ -1,10 +1,37 @@
-## Display a map using Mapbox GL JS with a custom style
+## OSM2VectorTiles Mapbox GL Styles
 
-This project lets you display a full screen map using a custom map style. A tutorial on how this works can be found at http://osm2vectortiles.org. The map style is based on the [OSM Bright style](https://github.com/mapbox/mapbox-gl-styles) of Mapbox.
+This project contains all freely available compatible Mapbox GL styles that work with osm2vectortiles.
+It is meant as quickstart on serving your own vector tiles with [OSM2VectorTiles](http://osm2vectortiles.org/)
+and [tileserver-vector](https://github.com/osm2vectortiles/tileserver-vector).
 
-Run your favorite webserver and have a look at the map in your browser.
+## Get Started
+
+Install `tileserver-vector` from npm.
 
 ```bash
-npm install -g http-server
-http-server
+npm install -g tileserver-vector
 ```
+
+Clone this repository.
+
+```bash
+git clone https://github.com/osm2vectortiles/mapbox-gl-styles.git
+cd mapbox-gl-styles
+```
+
+Now download vector tiles from [OSM2VectorTiles](http://osm2vectortiles.org/downloads/)
+and store it as `osm2vectortiles.mbtiles` in the directory.
+
+```bash
+curl -o osm2vectortiles.mbtiles https://osm2vectortiles-downloads.os.zhdk.cloud.switch.ch/v1.0/extracts/zurich.mbtiles
+```
+
+Start the tileserver.
+
+```bash
+tileserver-vector
+```
+
+## More Information
+
+More information is available on the [online tutorial](http://osm2vectortiles.org/docs/getting-started/) and [tileserver-gl](https://github.com/klokantech/tileserver-gl).
