@@ -7,7 +7,7 @@
             "type": "vector"
         }
     },
-    "sprite": "sprites/streets-v8",
+    "sprite": "sprites/streets-v9",
     "glyphs": "glyphs/{fontstack}/{range}.pbf",
     "metadata": {
         "mapbox:autocomposite": true,
