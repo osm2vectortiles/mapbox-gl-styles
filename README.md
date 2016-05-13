@@ -15,8 +15,8 @@ npm install -g tileserver-vector
 Clone this repository.
 
 ```bash
-git clone https://github.com/osm2vectortiles/mapbox-gl-js-example.git
-cd mapbox-gl-js-example
+git clone https://github.com/osm2vectortiles/mapbox-gl-styles.git
+cd mapbox-gl-styles
 ```
 
 Now download vector tiles from [OSM2VectorTiles](http://osm2vectortiles.org/downloads/)
