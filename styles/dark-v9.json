@@ -2,8 +2,8 @@
     "version": 8,
     "name": "Dark",
 	"sources": {
-        "mapbox": {
-            "url": "http://klokantech.tileserver.com/v1/index.json?key=WQ5sRntXphOrWgesmtmU",
+        "composite": {
+            "url": "mbtiles://osm2vectortiles.mbtiles",
             "type": "vector"
         }
     },

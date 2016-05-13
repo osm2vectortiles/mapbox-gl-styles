@@ -3,7 +3,7 @@
     "name": "Streets",
     "sources": {
         "composite": {
-            "url": "http://klokantech.tileserver.com/v1/index.json?key=WQ5sRntXphOrWgesmtmU",
+            "url": "mbtiles://osm2vectortiles.mbtiles",
             "type": "vector"
         }
     },
