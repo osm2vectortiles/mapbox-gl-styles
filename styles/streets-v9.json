@@ -8294,37 +8294,6 @@
             }
         },
         {
-            "id": "motorway-junction",
-            "type": "symbol",
-            "metadata": {
-                "mapbox:group": "1444933575858.6992"
-            },
-            "source": "composite",
-            "source-layer": "motorway_junction",
-            "minzoom": 14,
-            "interactive": true,
-            "filter": [
-                ">",
-                "reflen",
-                0
-            ],
-            "layout": {
-                "text-field": "{ref}",
-                "text-size": 9,
-                "icon-image": "motorway-exit-{reflen}",
-                "text-font": [
-                    "Open Sans Bold"
-                ]
-            },
-            "paint": {
-                "text-color": "hsl(0, 0%, 100%)",
-                "text-translate": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
             "id": "poi-scalerank2",
             "type": "symbol",
             "metadata": {
