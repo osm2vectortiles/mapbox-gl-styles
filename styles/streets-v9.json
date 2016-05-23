@@ -9386,14 +9386,6 @@
                 "all",
                 [
                     "in",
-                    "ldir",
-                    "E",
-                    "S",
-                    "SE",
-                    "SW"
-                ],
-                [
-                    "in",
                     "scalerank",
                     3,
                     4,
@@ -9503,14 +9495,6 @@
             "interactive": true,
             "filter": [
                 "all",
-                [
-                    "in",
-                    "ldir",
-                    "N",
-                    "NE",
-                    "NW",
-                    "W"
-                ],
                 [
                     "in",
                     "scalerank",
@@ -9625,14 +9609,6 @@
             "filter": [
                 "all",
                 [
-                    "in",
-                    "ldir",
-                    "E",
-                    "S",
-                    "SE",
-                    "SW"
-                ],
-                [
                     "<=",
                     "scalerank",
                     2
@@ -9743,14 +9719,6 @@
             "interactive": true,
             "filter": [
                 "all",
-                [
-                    "in",
-                    "ldir",
-                    "N",
-                    "NE",
-                    "NW",
-                    "W"
-                ],
                 [
                     "<=",
                     "scalerank",
