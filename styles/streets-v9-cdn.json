@@ -7,8 +7,8 @@
             "type": "vector"
         }
     },
-    "sprite": "https://raw.githubusercontent.com/osm2vectortiles/mapbox-gl-styles/master/sprites/streets-v9",
-    "glyphs": "https://raw.githubusercontent.com/osm2vectortiles/mapbox-gl-styles/master/glyphs/{fontstack}/{range}.pbf",
+    "sprite": "sprites/streets-v9",
+    "glyphs": "glyphs/{fontstack}/{range}.pbf",
     "metadata": {
         "mapbox:autocomposite": true,
         "mapbox:type": "default",
@@ -9386,14 +9386,6 @@
                 "all",
                 [
                     "in",
-                    "ldir",
-                    "E",
-                    "S",
-                    "SE",
-                    "SW"
-                ],
-                [
-                    "in",
                     "scalerank",
                     3,
                     4,
@@ -9503,14 +9495,6 @@
             "interactive": true,
             "filter": [
                 "all",
-                [
-                    "in",
-                    "ldir",
-                    "N",
-                    "NE",
-                    "NW",
-                    "W"
-                ],
                 [
                     "in",
                     "scalerank",
@@ -9625,14 +9609,6 @@
             "filter": [
                 "all",
                 [
-                    "in",
-                    "ldir",
-                    "E",
-                    "S",
-                    "SE",
-                    "SW"
-                ],
-                [
                     "<=",
                     "scalerank",
                     2
@@ -9743,14 +9719,6 @@
             "interactive": true,
             "filter": [
                 "all",
-                [
-                    "in",
-                    "ldir",
-                    "N",
-                    "NE",
-                    "NW",
-                    "W"
-                ],
                 [
                     "<=",
                     "scalerank",
