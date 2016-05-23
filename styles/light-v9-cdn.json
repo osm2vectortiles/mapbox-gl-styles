@@ -7,8 +7,8 @@
             "type": "vector"
         }
     },
-    "sprite": "sprites/light-v9",
-    "glyphs": "glyphs/{fontstack}/{range}.pbf",
+    "sprite": "https://raw.githubusercontent.com/osm2vectortiles/mapbox-gl-styles/master/sprites/light-v9",
+    "glyphs": "https://raw.githubusercontent.com/osm2vectortiles/mapbox-gl-styles/master/glyphs/{fontstack}/{range}.pbf",
     "metadata": {
         "mapbox:autocomposite": true,
         "mapbox:type": "default",
