@@ -4,5 +4,5 @@ This project contains all freely available compatible Mapbox GL styles that work
 
 ## Copyright
 
-These styles are derived from https://github.com/mapbox/mapbox-gl-styles
+The styles Basic and Bright are derived from https://github.com/mapbox/mapbox-gl-styles
 therefore Mapbox Open Styles are copyright (c) 2014, Mapbox, all rights reserved.
